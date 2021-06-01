@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Liron Ben Ezra</h1>
 
-<p>My first paragraph.</p>
+<p>Final Project</p>
 
 </body>
 </html>
