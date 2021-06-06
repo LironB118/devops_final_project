@@ -4,7 +4,7 @@
 
 <h1>Liron Ben Ezra</h1>
 
-<p>Final Project - devops2</p>
+<p>Final Project - devops-Demo</p>
 
 </body>
 </html>
